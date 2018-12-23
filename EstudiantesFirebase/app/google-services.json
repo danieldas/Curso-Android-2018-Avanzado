@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607757722006",
+    "firebase_url": "https://estudiantes-35e11.firebaseio.com",
+    "project_id": "estudiantes-35e11",
+    "storage_bucket": "estudiantes-35e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607757722006:android:05ec08ffbffed0ce",
+        "android_client_info": {
+          "package_name": "com.android.curso.estudiantesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607757722006-78ndnoe2legolk8krhflfkh9a646ihm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.curso.estudiantesfirebase",
+            "certificate_hash": "4ac00bb753c0ba3f93a961bc8b185511fee72bdf"
+          }
+        },
+        {
+          "client_id": "607757722006-tv0enf7rhnrbgtsudpglc1t3n3mftce9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKB-P4RPE5N7I0qsY8-bkB3-Y8G3qXed8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607757722006-tv0enf7rhnrbgtsudpglc1t3n3mftce9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

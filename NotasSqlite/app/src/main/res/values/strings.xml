@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotasSqlite</string>
+    <string-array name="tipo_arrays">
+        <item>Música</item>
+        <item>Programación</item>
+        <item>Recordatorio</item>
+        <item>Tareas</item>
+    </string-array>
+
+    <string-array name="tipotodo_arrays">
+        <item>Todo</item>
+        <item>Música</item>
+        <item>Programación</item>
+        <item>Recordatorio</item>
+        <item>Tareas</item>
+    </string-array>
+</resources>

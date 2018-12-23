@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/tvCerrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:gravity="end"
+        android:padding="3dp"
+        android:text="X"
+        android:textSize="20dp" />
+    <ImageView
+        android:id="@+id/imgPortadaNueva"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:padding="5dp"
+        android:scaleType="fitXY" />
+
+
+    <TextView
+        android:id="@+id/tvArtistaNuevo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:text="Artista"
+        android:textColor="@color/colorBlanco"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/tvAlbumNuevo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="Album"
+        android:textColor="@color/colorBlanco"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/etCantidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:elevation="20dp"
+        android:hint="Cantidad"
+        android:inputType="number"
+        android:maxLength="1"
+        android:textColor="@color/colorBlanco" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/btnComprar"
+        android:textColor="@color/colorBlanco"
+        android:background="@color/colorPrimary"
+        android:text="Comprar"
+        android:textSize="18dp"
+        android:layout_marginBottom="10dp"
+        />
+
+</LinearLayout>

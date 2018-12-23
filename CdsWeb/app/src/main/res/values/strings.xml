@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Venta de Cds</string>
+
+    <string-array name="genero_arrays">
+        <item>Todo</item>
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Reggae</item>
+        <item>Folklore</item>
+        <item>Metal</item>
+        <item>Cumbia</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cds"
+        android:orderInCategory="1"
+        android:title="Lista de Cds"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/compras"
+        android:orderInCategory="2"
+        android:title="Mis compras"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cerrarsesion"
+        android:orderInCategory="3"
+        android:title="Cerrar sesión"
+        app:showAsAction="never" />
+</menu>
